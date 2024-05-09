@@ -24,7 +24,7 @@ const models = [
         eng: 11.0
     },
     {
-        id: "B21DCDT1289",
+        id: "B21DCDT981",
         name: "Hoàng Mạnh Quỳnh",
         dob: "12/07/2003",
         math: 1.0,
